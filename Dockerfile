@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM arm64v8/debian:stretch
 
 MAINTAINER info@jeedom.com
 
